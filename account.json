@@ -1,0 +1,9 @@
+[
+ {
+    "GeminiKey": "YOUR_GEMINI_KEY",
+    "AppKey": "YOUR_X_APP_KEY",
+    "AppKeySecret": "YOUR_X_APP_KEY_SECRET",
+    "AccessToken": "YOUR_X_ACCESS_TOKEN",
+    "AccessTokenSecret": "YOUR_X_ACCESS_TOKEN_SECRET"
+ }
+]
