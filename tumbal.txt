@@ -1,0 +1,2 @@
+COOKIE=Your_Small_Account_Twitter_Cookie
+X-CSRF-TOKEN=Your_Small_Account_Twitter_X-CSRF-TOKEN
